@@ -8,7 +8,9 @@ Image geolocation refers to the process of automatically estimating, or finding 
 
 ## How It Works:
 
-Previously, methods attempting image geolocation have used specialized models which are meant for the specific task of image geolocation. GEO-MLLMs changes this by applying a MMLLM, which is meant for general usage and shows common-sense reasoning on some tasks, on the task of image geolocation. GEO-MLLMs first processes the image through an existing AI image geolocation tool, called GEOClip, and then produces 5 sets of predictions from GEOClip for what the image's location might be. These 5 predictions are then fed into the LLAMA-1.6-13B MLLM along with a prompt to guess the image's true location.
+Previously, methods attempting image geolocation have used specialized models which are meant for the specific task of image geolocation. GEO-MLLMs changes this by applying a MMLLM, which is meant for general usage and shows common-sense reasoning on some tasks, on the task of image geolocation. GEO-MLLMs first processes the image through an existing AI image geolocation tool, called GEOClip, and then produces 5 sets of predictions from GEOClip for what the image's location might be. These 5 predictions are then fed into the GPT-4o MLLM along with a prompt to guess the image's true location.
+
+We use GPT-4o over other MLLMs because of it's superior performance than most other available MLLMs.
 
 ## Results:
 
