@@ -13,3 +13,7 @@ Previously, methods attempting image geolocation have used specialized models wh
 ## Results:
 
 ------------
+
+## GPT-4o batch calls JSONL files:
+
+https://www.kaggle.com/datasets/sahalmulki/gpt-4o-json-files
