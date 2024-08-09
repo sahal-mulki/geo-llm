@@ -18,7 +18,9 @@ I used the GPT 4o Mini MLLM over other MLLMs because of it's superior performanc
 
 <img src="https://github.com/sahal-mulki/geo-llm/blob/main/yfcc_page-00201.jpg" width="500" />
 
+<img src="https://github.com/sahal-mulki/geo-llm/blob/main/median_page-0002221.jpg" width="500" />
+
 
 ## GPT 4o Mini batch calls JSONL files:
 
-https://www.kaggle.com/datasets/sahalmulki/GPT 4o Mini-json-files
+(https://www.kaggle.com/datasets/sahalmulki/gpt-4o-json-files)
