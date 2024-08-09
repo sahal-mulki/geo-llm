@@ -14,7 +14,7 @@ I used the GPT 4o Mini MLLM over other MLLMs because of it's superior performanc
 
 ## Results:
 
-<img src="https://github.com/sahal-mulki/geo-llm/blob/main/333.jpg" width="500" />
+<img src="https://github.com/sahal-mulki/geo-llm/blob/main/im2gps_page-02001.jpg" width="500" />
 
 ## GPT 4o Mini batch calls JSONL files:
 
