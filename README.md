@@ -30,3 +30,7 @@ I used the GPT 4o Mini MLLM over other MLLMs because of it's superior performanc
 ## GPT 4o Mini batch calls JSONL files:
 
 (https://www.kaggle.com/datasets/sahalmulki/gpt-4o-json-files)
+
+## YFCC and IM2GPS subsets
+
+https://www.kaggle.com/datasets/sahalmulki/llms-for-image-geolocation-benchmarks
