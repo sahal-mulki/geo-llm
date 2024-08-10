@@ -2,6 +2,12 @@
 
 This is not published work or even COMPLETED work. It's only an idea with some code behind it. This page will be updated with publication updates and other updates with time.
 
+## Demo
+
+<a target="_blank" href="https://colab.research.google.com/github/sahal-mulki/geo-llm/blob/main/GEO_MLLMs_Demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ##  Description
 
 Image geolocation refers to the process of automatically estimating, or finding the location of an image based on just the pixels in the image and no other metadata. Image geolocation is often done by using subtle clues and signs in an image (e.g., French on a signpost suggests the image originates from a french speaking country). Image geolocation is a pertinent topic, especially considering the attribution and verification of media originating from warzones or conflicts. This project proposes a multipart system (GEO-MLLMs) for estimating the location of an image using a MMLLM (Multi-modal Large Language Model), and a pre-existing geolocation method. We predict that our MLLM-based approach will outperform existing approaches to image geolocation on benchmark datasets (yfcc4k, im2gp3k).
