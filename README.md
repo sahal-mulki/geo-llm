@@ -1,6 +1,6 @@
 # GEO-MLLMs : MLLMs Assisted Image Geolocation
 
-This is not published work or even COMPLETED work. It's only an idea with some code behind it. This page will be updated with publication updates and other updates with time.
+This is not published work. It's only an idea with some code behind it. This page will be updated with publication updates and other updates with time.
 
 ## Demo
 
